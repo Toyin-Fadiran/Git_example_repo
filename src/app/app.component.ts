@@ -9,6 +9,6 @@ import { HomeComponent } from './home/home.component';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  //adding a comment
+  //adding a comment to test updating a file
   title= 'homes';
 }
